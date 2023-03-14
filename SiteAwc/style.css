@@ -7,3 +7,7 @@
   .list-group-item:hover {
     background-color: rgba(59, 57, 57, 0.164) !important;
   }
+  #carouselExample{
+    display:flex;
+    
+  }
