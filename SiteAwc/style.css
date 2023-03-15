@@ -7,3 +7,36 @@
   .list-group-item:hover {
     background-color: rgba(59, 57, 57, 0.164) !important;
   }
+  #carouselExample{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .tendencia{
+    height: 50px;
+    background-image: linear-gradient( #BE6928 , #8DB2BB);
+    text-align: center;
+  }
+  #boxes{
+    display: flex;
+  }
+  .box{
+    
+    border-radius: 30px;
+    margin: 50px;
+    width: 400px;
+    height: 400px;
+  }
+  img{
+
+    width: 400px;
+    height: 400px;
+    position:relative;
+    
+  }
+  footer{
+    height: 70px;
+    background-image: linear-gradient(white , black);
+  }
+.carro{
+  
+}
